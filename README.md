@@ -70,7 +70,7 @@ Write helpers methods in `./schemes/scheme-model.js` that match the following sp
 
 #### API
 
-The following endpoints are available to test the functionality of the model methods.
+The following endpoints are available to test the functionality of the model methods. 
 
 - `GET /api/schemes/` - gets master list of schemes (without steps)
 - `GET /api/schemes/:id` - gets a single scheme
